@@ -1,0 +1,172 @@
+/Administrator/NTUser.dat
+/NTUser.dat
+/global.asa
+/MySQL/MySQL Server 5.0/data/mysql-bin.log
+/MySQL Server 5.0/data/mysql-bin.log
+/data/mysql-bin.log
+/mysql-bin.log
+/MySQL/MySQL Server 5.0/data/mysql.err
+/MySQL Server 5.0/data/mysql.err
+/data/mysql.err
+/mysql.err
+/MySQL/MySQL Server 5.0/data/mysql.log
+/MySQL Server 5.0/data/mysql.log
+/data/mysql.log
+/mysql.log
+/MySQL Server 5.0/my.cnf
+/MySQL/MySQL Server 5.0/my.ini
+/MySQL Server 5.0/my.ini
+/FileZilla Server/FileZilla Server.xml
+/apache/conf/httpd.conf
+/conf/httpd.conf
+/WINDOWS/php.ini
+/WINDOWS/Repair/SAM
+/Repair/SAM
+/SAM
+/Windows/win.ini 
+/WINNT/php.ini
+/WINNT/win.ini
+/win.ini
+/debug/NetSetup.log
+/NetSetup.log
+/config/AppEvent.Evt
+/AppEvent.Evt
+/config/SecEvent.Evt
+/SecEvent.Evt
+/config/default.sav
+/default.sav
+/config/security.sav
+/security.sav
+/config/software.sav
+/software.sav
+/config/system.sav
+/system.sav
+/MySQL/MySQL Server 5.1/my.ini
+/MySQL Server 5.1/my.ini
+/inetsrv/config/schema/ASPNET_schema.xml
+/config/schema/ASPNET_schema.xml
+/schema/ASPNET_schema.xml
+/ASPNET_schema.xml
+C:/Windows/System32/inetsrv/config/applicationHost.config
+/config/applicationHost.config
+/applicationHost.config
+/MSSQL.1/Template Data/master.mdf
+/MSSQL10.SQLEXPRESS/Template Data/master.mdf
+/MSSQL11.SQLEXPRESS/Template Data/master.mdf
+/MSSQL12.SQLEXPRESS/Template Data/master.mdf
+/MSSQL13.SQLEXPRESS/Template Data/master.mdf
+/Template Data/master.mdf
+/master.mdf
+/MSSQL14.SQLEXPRESS/Template Data/master.mdf
+/Template Data/master.mdf
+/master.mdf
+/Administrator/NTUser.dat
+/NTUser.dat
+/apache/logs/access.log
+/logs/error.log
+/php/php.ini
+/MySQL/data/hostname.err
+/hostname.err
+/MySQL/data/mysql.err
+/mysql.err
+/MySQL/data/mysql.log
+/mysql.log
+/MySQL/my.cnf
+/MySQL/my.ini
+/php4/php.ini
+/php5/php.ini
+/php/php.ini
+/php.ini
+/Apache2/conf/httpd.conf
+/conf/httpd.conf
+/httpd.conf
+/Apache/conf/httpd.conf
+/conf/httpd.conf
+/httpd.conf
+/Apache/logs/access.log
+/logs/access.log
+/access.log
+/Apache/logs/error.log
+/logs/error.log
+/error.log
+/FileZilla Server/FileZilla Server.xml
+/FileZilla Server.xml
+/MySQL/data/hostname.err
+/data/hostname.err
+/hostname.err
+/MySQL/data/mysql-bin.log
+/data/mysql-bin.log
+/mysql-bin.log
+/MySQL/data/mysql.err
+/data/mysql.err
+/mysql.err
+/MySQL/data/mysql.log
+/data/mysql.log
+/mysql.log
+/MySQL/my.ini
+/my.ini
+/MySQL/my.cnf
+/my.cnf
+/data/hostname.err
+/hostname.err
+/data/mysql-bin.log
+/mysql-bin.log 
+/MySQL/MySQL Server 5.0/data/mysql.err
+/data/mysql.err
+/mysql.err
+/MySQL Server 5.0/data/mysql.log
+/data/mysql.log
+/mysql.log
+/MySQL/MySQL Server 5.0/my.cnf
+/my.cnf
+/MySQL Server 5.0/my.ini
+/my.ini
+/conf/httpd.conf
+/httpd.conf
+/conf/access.log
+/access.log
+/conf/error.log
+/error.log
+/FileZilla Server.xml
+/conf/httpd.conf
+/php.ini
+/win.ini
+/bin/php.ini
+/logs/access.log 
+/logs/error.log 
+/Unattended.xml 
+/Unattended.xml 
+/debug/NetSetup.log
+/NetSetup.log
+/config/AppEvent.Evt
+/AppEvent.Evt
+/config/SecEvent.Evt
+/SecEvent.Evt
+/config/default.sav
+/default.sav
+/config/security.sav
+/security.sav
+/config/software.sav
+/software.sav
+/config/system.sav
+/system.sav
+/MySQL/MySQL Server 5.1/my.ini
+/MySQL Server 5.1/my.ini
+/my.ini
+/inetsrv/config/schema/ASPNET_schema.xml
+/config/schema/ASPNET_schema.xml
+/schema/ASPNET_schema.xml
+/ASPNET_schema.xml
+/inetsrv/config/applicationHost.config
+/config/applicationHost.config
+/applicationHost.config
+/inetpub/logs/LogFiles/W3SVC1/u_ex[YYMMDD].log
+/LogFiles/W3SVC1/u_ex[YYMMDD].log
+/W3SVC1/u_ex[YYMMDD].log
+/logs/LogFiles/W3SVC1/u_ex[YYMMDD].log
+/MSSQL.1/Template Data/master.mdf
+/MSSQL10.SQLEXPRESS/Template Data/master.mdf
+/MSSQL11.SQLEXPRESS/Template Data/master.mdf
+/MSSQL12.SQLEXPRESS/Template Data/master.mdf
+/MSSQL13.SQLEXPRESS/Template Data/master.mdf
+/MSSQL14.SQLEXPRESS/Template Data/master.mdf
